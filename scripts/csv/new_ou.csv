@@ -1,0 +1,20 @@
+﻿name;ou1;ou1name;ou2;ou2name;dc1;dc1name;dc2;dc2name;Path
+Direction;OU=;Utilisateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Utilisateurs,OU=Entreprise,DC=JGU,DC=fr
+Commercial;OU=;Utilisateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Utilisateurs,OU=Entreprise,DC=JGU,DC=fr
+Comptabilité;OU=;Utilisateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Utilisateurs,OU=Entreprise,DC=JGU,DC=fr
+Informatique;OU=;Utilisateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Utilisateurs,OU=Entreprise,DC=JGU,DC=fr
+RnD;OU=;Utilisateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Utilisateurs,OU=Entreprise,DC=JGU,DC=fr
+Production;OU=;Utilisateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Utilisateurs,OU=Entreprise,DC=JGU,DC=fr
+Sécurité;OU=;Utilisateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Utilisateurs,OU=Entreprise,DC=JGU,DC=fr
+Groupes globaux;OU=;Groupes;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Groupes,OU=Entreprise,DC=JGU,DC=fr
+Groupes universels;OU=;Groupes;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Groupes,OU=Entreprise,DC=JGU,DC=fr
+Domaines locaux;OU=;Groupes;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Groupes,OU=Entreprise,DC=JGU,DC=fr
+Support;OU=;Partages;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Partages,OU=Entreprise,DC=JGU,DC=fr
+Documentation;OU=;Partages;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Partages,OU=Entreprise,DC=JGU,DC=fr
+Partage;OU=;Partages;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Partages,OU=Entreprise,DC=JGU,DC=fr
+Commun;OU=;Partages;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Partages,OU=Entreprise,DC=JGU,DC=fr
+Confidentiel;OU=;Partages;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Partages,OU=Entreprise,DC=JGU,DC=fr
+Workstations;OU=;Ordinateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Ordinateurs,OU=Entreprise,DC=JGU,DC=fr
+Serveurs;OU=;Ordinateurs;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Ordinateurs,OU=Entreprise,DC=JGU,DC=fr
+Véhicules;OU=;Ressources;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Ressources,OU=Entreprise,DC=JGU,DC=fr
+Imprimantes;OU=;Ressources;OU=;Entreprise;DC=;JGU;DC=;fr;OU=Ressources,OU=Entreprise,DC=JGU,DC=fr

@@ -1,0 +1,17 @@
+﻿Buts :
+    - Demander si l'on doit installer les outils nécessaires au bon déroulement du script
+	    . RSAT si le rôle ADDS n'est pas présent ET que la machine est dans un domaine
+	    . Powershell 5.1 minimum
+    - Installer un contrôleur de domaine AD
+	    . Prompt via GUI pour le nom de domaine, le nom NETBIOS, le recovery password etc.
+        Checker s'il y a déjà un DC installé
+        Afficher son nom
+        Demander 
+            si l'on veut une nouvelle forêt 
+            ou un DC pour une forêt existante
+    - Redémarrer et réussir la promotion en DC 
+	    . Tâche planifiée ?
+    - Initialiser la structure d'OU
+    - Demander si l'on crée des utilisateurs à la main ou via fichier CSV
+	    . Check des fichiers .csv
+    - Créer un utilisateur du domaine, admin local des postes
